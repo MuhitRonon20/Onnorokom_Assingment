@@ -1,0 +1,22 @@
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.pnpm-debug.log*
+
+# Environment & OS
+.env
+*.log
+.DS_Store
+Thumbs.db
+
